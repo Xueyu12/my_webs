@@ -21,9 +21,5 @@ Cities in "Jiangnan" are mainly water towns and grow up gentle and soft people c
 
 I travelled there with my friend Zoe Zhou. We visited the Museum of Suzhou, the most beautiful combination of modern and ancient construction style in the whole world. You can see part of the building from the head picture. 
 
-It was spring and everything was amazing. 
-Jiangnan in our culture is the symbol for story. Hope you can find some stories from my pics.
+It was spring and everything was amazing. Jiangnan in our culture is the symbol for story. Hope you can find some stories from my pics.
 
-![Me in Suzhou ancient garden](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/sz02.jpg)
-
-![Me in Suzhou ancient town](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/sz03.jpg)
